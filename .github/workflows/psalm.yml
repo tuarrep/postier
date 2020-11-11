@@ -27,7 +27,7 @@ jobs:
           key: composer-${{ hashFiles('composer.lock') }}
 
       - name: Run composer install
-        run: composer install -n --prefer-dist
+        run: composer install -n --prefer-dist && composer require --dev -n --prefer-dist vimeo/psalm
 
       - name: Run psalm
         run: ./vendor/bin/psalm --output-format=github
