@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 346 70">
+  <defs>
+    <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FEC972"/>
+      <stop offset="100%" stop-color="#E6B400"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#a)" d="M37.468 36.465h15.865a2.563 2.563 0 012.568 2.568v1.375a2.563 2.563 0 01-2.568 2.568H37.468a2.562 2.562 0 01-2.566-2.568v-1.375a2.562 2.562 0 012.566-2.568zm-19.369-6.874c-1.713 0-3.093 1.484-3.093 3.323v42.891c0 1.844 1.38 3.323 3.093 3.323h53.808c1.708 0 3.094-1.479 3.094-3.323V32.914c0-1.839-1.386-3.323-3.094-3.323H18.099zM48 12.883l1.896 12.88h21.933c1.224 0 1.995-1.375 1.386-2.473l-5.594-7.934c-.85-1.531-2.422-2.473-4.131-2.473H48zm-21.489 0c-1.703 0-3.281.942-4.125 2.473l-5.595 7.934c-.609 1.098.157 2.473 1.387 2.473h21.927l1.896-12.88h-15.49z"/>
+    <text x="90" y="58" font-family="Inter" font-size="40" font-weight="500" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:'Inter Semi-Bold'" word-spacing="0" fill="#000">
+     Postier
+    </text>
+  </g>
+</svg>
