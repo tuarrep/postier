@@ -1,3 +1,5 @@
+<p align="center"><img src="/art/logo.svg" alt="Social Card of Once"></p>
+
 # Manage parcel shipments Laravel
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/postier/postier.svg?style=flat-square)](https://packagist.org/packages/postier/postier)
