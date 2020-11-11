@@ -1,4 +1,4 @@
-<p align="center"><img src="/art/logo.svg" alt="Social Card of Once"></p>
+<p align="center"><img src="/art/logo.svg"></p>
 
 # Manage parcel shipments Laravel
 
